@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/12/2019 8:11:13 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="P-RIVERA"
+  DTS:CreatorName="SAMTEL\pedro.rivera"
+  DTS:DTSID="{D2900596-7400-4B2E-88E9-70655CAFFB7D}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.1100.123"
+  DTS:LocaleID="9226"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{B34AE9A7-2490-4E4E-B57E-C8DE43F849B7}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
